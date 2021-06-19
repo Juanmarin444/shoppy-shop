@@ -54,3 +54,12 @@
   border-radius: 5px;
   color: #343233;
 }
+
+@media (max-width: 376px) {
+  .span__container {
+    display: none;
+  }
+  .navbar {
+    padding: 0rem .5rem;
+  }
+}
