@@ -4,7 +4,9 @@
 
 Hey! Here you can find the details of Smart Shop. If you want to learn more, you can read me.
 
-You can visit [Smart Shop Here](https://smartshop-jm.herokuapp.com/)!
+You can visit [**Smart Shop** Here](https://smartshop-jm.herokuapp.com/)!
+
+If you're here for **J-comm** you can check out the repo [here](https://github.com/jpatrick7926/J-Comm)!
 
 Also, if you want to play with the responsiveness, you can use the developer tools to view the media queries.
 
